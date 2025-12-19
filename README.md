@@ -1,0 +1,1 @@
+# claude_skills_for_bigquery_mcp
