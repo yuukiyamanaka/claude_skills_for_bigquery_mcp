@@ -1,0 +1,8 @@
+click_id,impression_id,campaign_id,user_id,click_date,landing_page
+1,1,1,101,2025-07-05 10:24:12,/summer-sale
+2,3,1,103,2025-07-06 09:13:01,/summer-sale
+3,4,2,104,2025-08-10 14:23:05,/register
+4,6,2,101,2025-08-12 08:34:22,/register
+5,7,3,106,2025-09-15 12:12:00,/cart
+6,9,4,107,2025-12-10 09:01:15,/year-end-sale
+7,10,5,108,2025-10-05 10:31:00,/member-deals
